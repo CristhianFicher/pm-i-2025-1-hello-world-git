@@ -31,3 +31,13 @@ button:hover, button:focus {
     color: black;
     font-weight: bold;
 }
+
+button.clear {
+    background-color: red;
+    color: white;
+}
+
+button.clear:hover, button.clear:focus {
+    background-color: white;
+    color: red;
+}

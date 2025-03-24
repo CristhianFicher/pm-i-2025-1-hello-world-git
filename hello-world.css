@@ -33,11 +33,11 @@ button:hover, button:focus {
 }
 
 button.clear {
-    background-color: red;
-    color: white;
+    background-color: rgb(31, 193, 221);
+    color: rgb(153, 228, 14);
 }
 
 button.clear:hover, button.clear:focus {
-    background-color: white;
-    color: red;
+    background-color: rgb(10, 255, 141);
+    color: rgb(0, 255, 191);
 }
